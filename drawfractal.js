@@ -112,7 +112,7 @@ function drawTrees(root){
     .attr("y1",function(d){return d.y1})
     .attr("x2",function(d){return d.x1})
     .attr("y2",function(d){return d.y1})
-    .attr("stroke","#c1c1c1")
+    .attr("stroke","#ececec")
     .attr("stroke-width",function(d){return d.thickness; })
     .transition()
     .delay(function(d,i){
