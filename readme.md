@@ -5,4 +5,4 @@ To change the maximum number of branches, change the variable, globalMaxBranchNo
 
 The code will automatically fill any screen size with trees of variables branch numbers.
 
-Demo live at <http://gkarthik.net/fractal-trees/>
+Demo live at <http://gkarthik.com/dep/fractal-trees/>
